@@ -1,0 +1,21 @@
+.sidebar{
+    width:20%;
+    height:-webkit-fill-available;
+    background-color: #e9ecef;
+    padding: 1rem;
+}
+
+.full-container{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+.sidebar-anchors{
+    color: #656565;
+    line-height: 35px;
+    border-bottom: 1px solid;
+}
